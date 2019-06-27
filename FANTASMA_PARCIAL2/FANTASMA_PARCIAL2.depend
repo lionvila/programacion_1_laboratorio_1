@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1561593571 source:/home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Fantasma.h"
+	"parser.h"
+	"utn.h"
+
+1561052458 /home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/LinkedList.h
+
+1561592665 /home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/Fantasma.h
+
+1561593319 /home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/parser.h
+
+1561593037 /home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/utn.h
+
+1561052458 source:/home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561592681 source:/home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Fantasma.h"
+	"parser.h"
+	"utn.h"
+
+1561593037 source:/home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1561591427 source:/home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Fantasma.h"
+	"parser.h"
+	"utn.h"
+
+1561593247 source:/home/leon/Documentos/programacion_1_laboratorio_1/FANTASMA_PARCIAL2/Fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Fantasma.h"
+	"parser.h"
+	"utn.h"
+
