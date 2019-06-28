@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1561682398 source:/home/alumno/Documentos/leonvila/parcial2/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Venta.h"
+	"parser.h"
+	"utn.h"
+
+1561674376 /home/alumno/Documentos/leonvila/parcial2/LinkedList.h
+
+1561680855 /home/alumno/Documentos/leonvila/parcial2/Venta.h
+
+1561672311 /home/alumno/Documentos/leonvila/parcial2/parser.h
+
+1561679526 /home/alumno/Documentos/leonvila/parcial2/utn.h
+
+1561680861 source:/home/alumno/Documentos/leonvila/parcial2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561681574 source:/home/alumno/Documentos/leonvila/parcial2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Venta.h"
+	"parser.h"
+	"utn.h"
+
+1561682221 source:/home/alumno/Documentos/leonvila/parcial2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1561678350 source:/home/alumno/Documentos/leonvila/parcial2/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Venta.h"
+	"parser.h"
+	"utn.h"
+
+1561681981 source:/home/alumno/Documentos/leonvila/parcial2/Venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Venta.h"
+	"parser.h"
+	"utn.h"
+
+1561678323 /home/alumno/Documentos/leonvila/parcial2/Controller.h
+	"Venta.h"
+
